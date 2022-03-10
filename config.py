@@ -1,0 +1,6 @@
+# NYT
+NYT_API_KEY = "KLhTtS9IuLNHN3VTGny4CaQbDkd6vywQ"
+# OpenWeather
+OpenWeather_API_KEY = "5a28f63481a7e513658e9f1fe6877492"
+
+Google_API_KEY = "AIzaSyCWiLdWTUxtwwm3AB5LVWa3T1KGImEfWTg"
